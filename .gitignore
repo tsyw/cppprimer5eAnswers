@@ -31,3 +31,4 @@
 *.DB-wal
 .BROWSE.VC.DB-shm
 .vscode/settings.json
+.vscode/c_cpp_properties.json
