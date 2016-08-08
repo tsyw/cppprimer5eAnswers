@@ -29,4 +29,5 @@
 *.app
 .vscode/.BROWSE.VC.DB
 *.DB-wal
+.BROWSE.VC.DB-shm
 .vscode/settings.json
