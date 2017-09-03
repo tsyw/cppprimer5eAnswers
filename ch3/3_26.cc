@@ -1,1 +1,1 @@
-//because the 'beg' changed after each loop
+//because the '+' operator between tow iterators is illegal
