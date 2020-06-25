@@ -1,0 +1,1 @@
+// The algorithm do not know what it is operating. It is benefit for the isolation of data and algorithm.

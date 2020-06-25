@@ -27,7 +27,9 @@
 *.exe
 *.out
 *.app
+*.dSYM
 .vscode/.BROWSE.VC.DB
+.vscode
 *.DB-wal
 .BROWSE.VC.DB-shm
 .vscode/settings.json
